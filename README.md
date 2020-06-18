@@ -15,3 +15,6 @@ Step 3: Run `npm i` to download the necessary node modules.
 ## To run the code
 
 Step 4: Run `ng serve -o` Navigate to `http://localhost:4200/`.
+
+## Output
+In the Console as a json object {name: value, ...}
